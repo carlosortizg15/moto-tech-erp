@@ -3,7 +3,7 @@
 ![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.0--MVP-blue)
 ![Ubicación](https://img.shields.io/badge/Hecho%20en-Cartagena%2C%20Colombia-orange)
 
-Moto-Tech ERP es una solución integral diseñada para optimizar la administración de talleres mecánicos de motocicletas. Este proyecto nace en la **Fundación Universitaria Tecnológica Comfenalco (UNITECNAR)** para digitalizar el flujo de trabajo de mantenimiento.
+Moto-Tech ERP es una solución integral diseñada para optimizar la administración de talleres mecánicos de motocicletas. Este proyecto nace en la **Fundación universitaria antonio de arévalo (UNITECNAR)** para digitalizar el flujo de trabajo de mantenimiento.
 
 ---
 
