@@ -49,11 +49,11 @@ Si quieres probar el frontend en tu máquina:
 
     npm run dev
 
-Desarrollado por: Carlos Ortiz
-		  Dairo Vargas
-                  Yajaira Rodriguez
-                  Brenda Gaviria (Te amo)
-                  Juan David Gonzales
-                  Se me olvido el otro nombre
+Desarrollado por: * **Carlos Ortiz**
+* **Dairo Vargas**
+* **Yajaira Rodriguez**
+* **Brenda Gaviria** ❤️
+* **Juan David Gonzales**
+* *(Se me olvido)* 🛠️
 
 Estudiantes de Ingeniería de Sistemas
