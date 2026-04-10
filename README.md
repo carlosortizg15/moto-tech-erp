@@ -49,7 +49,8 @@ Si quieres probar el frontend en tu máquina:
 
     npm run dev
 
-Desarrollado por: * **Carlos Ortiz**
+Desarrollado por: 
+* **Carlos Ortiz**
 * **Dairo Vargas**
 * **Yajaira Rodriguez**
 * **Brenda Gaviria** ❤️
