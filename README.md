@@ -10,7 +10,8 @@ Moto-Tech ERP es una solución integral diseñada para optimizar la administraci
 ## 🚀 Vista Previa del Dashboard
 Aquí puedes ver la interfaz actual construida con **React** y **Tailwind CSS**:
 
-*(Sube tu captura a GitHub y reemplaza este texto por la imagen)*
+<img width="1850" height="960" alt="imagen" src="https://github.com/user-attachments/assets/ffccf18b-5dc4-4b6a-9bfd-d51e72eaab00" />
+
 
 ---
 
